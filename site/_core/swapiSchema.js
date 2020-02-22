@@ -249,7 +249,7 @@ const humans = [
 		name: "Mirco Vanini",
 		friends: [],
 		appearsIn: [],
-		height: 1.8,
+		height: 4.2 / 3.28084,
 		mass: null,
 		starships: []
 	}

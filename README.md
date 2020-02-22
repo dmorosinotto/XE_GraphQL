@@ -1,3 +1,9 @@
+# XE_GraphQL
+
+XE GraphQL - Session 28-02-2020
+
+---
+
 # Contributing
 
 Organization gh-pages deploy the `master` branch, so active development occurs
